@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Auricular Sony Pulse 3D",
+    "price": "18000",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_915946-MLA46387566812_062021-F.webp"
+  },
+  {
+    "id": 2,
+    "title": "PlayStation 5",
+    "price": "150000",
+    "thumbnail": "https://www.atajo.com.ar/images/0000PS5-STANDARD000459501PS5-STANDARD-Consola-Playstation-PS5-Standard-04.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Dualsense Blanco",
+    "price": "12000",
+    "thumbnail": "https://www.cetrogar.com.ar/media/catalog/product/e/l/el2308-3.jpg?width=500&height=500&canvas=500,500&quality=80&bg-color=255,255,255&fit=bounds"
+  }
+]
